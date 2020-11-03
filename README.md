@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Thiago!</h1>
 
-![Sitting at the beach](https://github.com/thiagobaia/thiagobaia/blob/master/photo.jpg)
+![Sitting at the beach](https://github.com/thiagobaia/thiagobaia/photo.jpg)
 
 <p align="center">
     <a href="https://adriangrimm.com">
