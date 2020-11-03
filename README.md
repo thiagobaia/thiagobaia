@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Thiago!</h1>
 
-![Sitting at the beach](https://github.com/thiagobaia/thiagobaia/photo.jpg)
+![Sitting at the beach](https://github.com/thiagobaia/thiagobaia/main/photo.jpg)
 
 
 <p align="center">
