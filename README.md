@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Thiago!</h1>
 
+![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=green)
+
 ![Sitting at the beach](https://raw.githubusercontent.com/thiagobaia/thiagobaia/main/photo.jpg)
 
 
