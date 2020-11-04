@@ -1,8 +1,16 @@
-<h1 align="center">Hi, I'm Thiago!</h1>
+# Thiago Baia :man_technologist:
 
 ![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=green)
 
-![Sitting at the beach](https://raw.githubusercontent.com/thiagobaia/thiagobaia/main/photo.jpg)
+
+- 🌎 I'm from Pará, Brazil
+- 🐍 Python back-end developer in training
+- 📚 Currently learning to use Django + Vue
+- 😄 I speak English and Portuguese
+- 🕹 In my free time I like to play games, watch series and play guitar
+ 
+ - 📌 Skills: HTML, CSS, JavaScript, Vue.js, React, Strapi CMS, Designer System, Jamstack
+ ----
 
 
 <p align="center">
@@ -26,8 +34,6 @@ I transitioned from database administration to web development after taking clas
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobaia&layout=compact&hide=makefile&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="Most used languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=thiagobaia&show_icons=true&count_private=true&hide=issues,contribs&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="GitHub stats" />
 </p>
 
 
