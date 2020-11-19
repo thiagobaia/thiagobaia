@@ -28,9 +28,6 @@
     </a>
 </p>
 
-### Front-End Development
-
-I transitioned from database administration to web development after taking classes first in HTML and then JavaScript.  While I enjoyed working with data, I found it more rewarding to create websites and content. I then found, and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to build cool stuff for others.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobaia&layout=compact&hide=makefile&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="Most used languages" />
