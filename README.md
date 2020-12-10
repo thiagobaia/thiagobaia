@@ -6,7 +6,6 @@
 - 🌎 I'm from Pará, Brazil
 - 🐍 Python back-end developer in training
 - 📚 Currently learning to use Django + Vue
-- 😄 I speak English and Portuguese
 - 🕹 In my free time I like to play games, watch series and play guitar
  
  - 📌 Skills: HTML, CSS, JavaScript, Vue.js, React, Strapi CMS, Designer System, Jamstack
