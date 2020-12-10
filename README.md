@@ -19,12 +19,7 @@
     <a href="https://www.linkedin.com/in/thiagobaia1/">
         <img src="https://img.shields.io/badge/%20-thiagobaia-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
     </a>
-    <a href="https://twitter.com/mexamoT">
-        <img src="https://img.shields.io/badge/%20-@mexamoT-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
-    </a>
-    <a href="mailto:ticocore@gmail.com">
-        <img src="https://img.shields.io/badge/%20-ticocore@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
-    </a>
+
 </p>
 
 
