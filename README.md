@@ -8,7 +8,7 @@
 - 📚 Currently learning to use Django + Vue
 - 🕹 In my free time I like to play games, watch series and play guitar
  
- - 📌 Skills: HTML, CSS, JavaScript, Vue.js e Django
+ - 📌 Skills: HTML, CSS, JavaScript, Vue.js end Django
  ----
 
 
