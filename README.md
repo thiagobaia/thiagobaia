@@ -4,11 +4,10 @@
 
 
 - 🌎 I'm from Pará, Brazil
-- 🐍 Python back-end developer in training
-- 📚 Currently learning to use Django + Vue
+- 📚 Currently learning to use .NET, React end React Native
 - 🕹 In my free time I like to play games, watch series and play guitar
  
- - 📌 Skills: HTML, CSS, JavaScript, Vue.js end Django
+ - 📌 Skills: HTML, CSS, JavaScript, Vue.js end React.
  ----
 
 
