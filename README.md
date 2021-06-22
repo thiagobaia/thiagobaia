@@ -7,7 +7,7 @@
 - 📚 Currently learning to use .NET, React end React Native
 - 🕹 In my free time I like to play games, watch series and play guitar
  
- - 📌 Skills: HTML, CSS, JavaScript, Vue.js end React.
+ - 📌 Skills: HTML, CSS, JavaScript, Vue.js.
  ----
 
 
