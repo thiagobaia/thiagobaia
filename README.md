@@ -4,10 +4,9 @@
 
 
 - 🌎 I'm from Pará, Brazil
-- 📚 Currently learning to use .NET, React end React Native
 - 🕹 In my free time I like to play games, watch series and play guitar
- 
- - 📌 Skills: HTML, CSS, JavaScript, Vue.js.
+- 📌 Skills: HTML, CSS, JavaScript, Vue.js, React.
+
  ----
 
 
