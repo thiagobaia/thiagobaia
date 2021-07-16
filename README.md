@@ -5,7 +5,7 @@
 
 - 🌎 I'm from Pará, Brazil
 - 🕹 In my free time I like to play games, watch series and play guitar
-- 📌 Skills: HTML, CSS, JavaScript, Vue.js, React.
+- 📌 Skills: HTML, CSS, JavaScript, Vue.js end React.
 
  ----
 
