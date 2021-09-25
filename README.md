@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=green)
 
 
-- 🌎 I'm from Pará, Brazil
+- 🌎 I'm from Pará - Brazil, living in Itabira - Minas Gerais - Brazil 
 - 🕹 In my free time I like to play games, watch series and play guitar
-- 📌 Skills: HTML, CSS, JavaScript, React end .NET. 
+- 📌 Skills: HTML, CSS, JavaScript, React, C# and .NET
 
  ----
 
