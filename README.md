@@ -5,7 +5,7 @@
 
 - 🌎 I'm from Pará - Brazil, living in Itabira - Minas Gerais - Brazil 
 - 🕹 In my free time I like to play games, watch series and play guitar
-- 📌 Skills: HTML, CSS, JavaScript, React, C# and .NET
+- 📌 Skills: HTML, CSS, JavaScript,Vue, React, C# and .NET
 
  ----
 
