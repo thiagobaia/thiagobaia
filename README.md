@@ -9,7 +9,6 @@
 
  ----
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/thiagobaia1/">
         <img src="https://img.shields.io/badge/%20-thiagobaia-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
