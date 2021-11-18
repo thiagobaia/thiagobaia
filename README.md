@@ -1,6 +1,6 @@
 # Thiago Baia :man_technologist:
 
-
+![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=green)
 
 
 - 🌎 I'm from Pará - Brazil, living in Itabira - Minas Gerais - Brazil 
