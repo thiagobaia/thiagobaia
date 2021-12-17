@@ -2,15 +2,25 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=green)
 
-<div style="display: inline_block"><br>
 
-- 🌎 I'm from Pará - Brazil, living in Itabira - Minas Gerais - Brazil 
+<div align="center">
+ 
+ - 🌎 I'm from Pará - Brazil, living in Itabira - Minas Gerais - Brazil 
 - 🕹 In my free time I like to play games, watch series and play guitar
 - 📌 Skills: HTML, CSS, JavaScript, Vue, React and Node.
  
+  ----
+ 
   <a align="right" href="https://app.daily.dev/thiagobaia"><img src="https://api.daily.dev/devcards/86a8730cde8741788424cc5095b400b9.png?r=rdv" width="400" alt="Thiago Baia's Dev Card"/></a>
+ 
+
 </div>
- ----
+
+
+
+
+
+
 
 
 <p align="left">
