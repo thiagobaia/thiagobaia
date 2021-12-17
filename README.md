@@ -10,8 +10,6 @@
   
   <div style="display: inline_block"><br>
 
- <a align="right" href="https://app.daily.dev/thiagobaia"><img src="https://api.daily.dev/devcards/86a8730cde8741788424cc5095b400b9.png?r=rdv" width="400" alt="Thiago Baia's Dev Card"/></a>
-</div>
 
 <p height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobaia&layout=compact&hide=makefile&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="Most used languages" />
