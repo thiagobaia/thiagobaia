@@ -11,7 +11,7 @@
  
   ----
  
-  <a align="right" href="https://app.daily.dev/thiagobaia"><img src="https://api.daily.dev/devcards/86a8730cde8741788424cc5095b400b9.png?r=rdv" width="400" alt="Thiago Baia's Dev Card"/></a>
+  <a height="180em" href="https://app.daily.dev/thiagobaia"><img src="https://api.daily.dev/devcards/86a8730cde8741788424cc5095b400b9.png?r=rdv" width="400" alt="Thiago Baia's Dev Card"/></a>
  
 
 </div>
