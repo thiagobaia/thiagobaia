@@ -22,7 +22,7 @@
 </p>
 
 
-<div align="right">
+<div align="right" top="10px">
    <a href="https://app.daily.dev/thiagobaia"><img src="https://api.daily.dev/devcards/86a8730cde8741788424cc5095b400b9.png?r=rdv" width="400" alt="Thiago Baia's Dev Card"/></a>
 </div>
 
