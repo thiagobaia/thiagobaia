@@ -4,7 +4,7 @@
 
  - 🌎 I'm from Pará - Brazil, living in Tucuruí - Pará - Amazônia - Brazil
 - 🕹 In my free time I like to play games, watch series and play guitar
-- 📌 Skills: HTML, CSS, JavaScript, Stencil, React and Java + Spring.
+- 📌 Skills: HTML, CSS, JavaScript, Stencil, React and Nodejs.
  
   ----
   
