@@ -1,6 +1,6 @@
 # Thiago Baia :man_technologist:
 
-
+![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=red)
 ![](https://hit.yhype.me/github/profile?user_id=19520486)
 
 
