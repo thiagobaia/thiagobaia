@@ -1,7 +1,6 @@
 # Thiago Baia :man_technologist:
 
 ![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=red)
-![](https://hit.yhype.me/github/profile?user_id=19520486)
 
 
  - 🌎 I'm from Pará - Brazil, living in Tucuruí - Pará - Amazônia - Brazil
