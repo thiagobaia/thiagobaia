@@ -1,6 +1,5 @@
 # Thiago Baia :man_technologist:
 
-![](https://komarev.com/ghpvc/?username=your-github-thiagobaia&color=green)
 
  - 🌎 I'm from Pará - Brazil, living in Tucuruí - Pará - Amazônia - Brazil
 - 🕹 In my free time I like to play games, watch series and play guitar
